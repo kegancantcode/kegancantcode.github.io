@@ -1,0 +1,53 @@
+/*
+Font-Family: 'Abril Fatface', Cursive;
+Font-Size: 48px;
+Font-Family: 'Poppins', Sans-Serif;
+Font-Size: 14px;
+*/
+
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: 'Poppins', Sans-Serif;
+	font-size: 20px;
+	
+}
+header {
+	background-image: url(../images/tex.png);
+	background-size: cover;
+	height: 60vh;
+}
+
+h1, h2 , h3{
+	font-family:'Abril Fatface', Cursive;
+	color: rgb(0, 0, 0,);
+}
+
+h1 {
+	font-size: 90px;
+	margin: 0;
+	writing-mode: horizontal-tb;
+text-orientation: mixed;
+}
+
+h2 {
+	font-size: 50px;
+}
+
+h3 {
+	font-size: 30px;
+}
+
+p {
+	line-height: 8px;
+}
+
+
+
+main {
+	width: 80%;
+	margin: auto;
+}
